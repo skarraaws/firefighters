@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$hostname = "http://octank-db1.chrxcdp91k9r.us-east-2.rds.amazonaws.com";
+$hostname = "octank-db1.chrxcdp91k9r.us-east-2.rds.amazonaws.com";
 $username = "fireadmin";
 $password = "fightfire";
 $database = "firefighters_db";
