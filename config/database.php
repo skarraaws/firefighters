@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-$hostname = "localhost";
-$username = "root";
-$password = "";
-$database = "clinic_appointment";
+$hostname = "http://octank-db1.chrxcdp91k9r.us-east-2.rds.amazonaws.com";
+$username = "fireadmin";
+$password = "fightfire";
+$database = "firefighters_db";
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 
