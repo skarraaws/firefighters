@@ -279,13 +279,8 @@ FOR ANIMATION
 
 		<div class="jumbotron jumbotron-fluid">
 			<div class="container">
-<<<<<<< HEAD
 				<h2 class="jumbotron-title">Your well-being is our piority</h2>
-				<p>The #1 firefighter scheduling ap.</p>
-=======
-				<h2 class="jumbotron-title">Subnet 1</h2>
-				<p>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
->>>>>>> 7ee959b07f640abfbd59110bac3608a63cd7fb46
+				<p>The #1 firefighter scheduling app.</p>
 			</div>
 		</div>
 
@@ -355,7 +350,7 @@ FOR ANIMATION
 					<div class="col-sm-4">
 						<div class="card">
 							<div class="card-body">
-								<img src="https://www.iconfinder.com/data/icons/firefighters-filled-color/300/7363545Untitled-3-512.png">
+								<img src="./assets/img/firehouse.png">
 								<h5 class="card-title">Firehouse</h5>
 								<p class="card-text">Login for Firehouse support users
 								</p>
