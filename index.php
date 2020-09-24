@@ -290,9 +290,9 @@ FOR ANIMATION
 							<img src="./assets/img/machine-learning.png" alt="" title="">
 						</div>
 						<div class="desc">
-							<h4 class="mb-3">Intelligent Scheduling with Machine Learning</h4>
+							<h4 class="mb-3">Machine Learning</h4>
 							<p class="paragraph">
-								Inutitive and user friendly applicaiton augemnted with cutting Machine Learnign alogirthms to create optimized schedules. 
+								Inutitive and user friendly applicaiton augemnted with cutting-edge Machine Learnign algorithms to create optimized schedules. 
 							</p>
 						</div>
 					</div>
