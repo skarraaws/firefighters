@@ -253,9 +253,6 @@ FOR ANIMATION
 							<a class="nav-link" href="#about">About</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#howitwork">How it Work</a>
-						</li>
-						<li class="nav-item">
 							<a class="nav-link" href="#feature">Features</a>
 						</li>
 						<li class="nav-item">
@@ -295,35 +292,30 @@ FOR ANIMATION
 						<div class="desc">
 							<h4 class="mb-3">Easiest way around</h4>
 							<p class="paragraph">
-								One tap and a car comes directly to you. Hop in—your driver knows exactly where to go.
-								And
-								when you get there, just step out. Payment is completely seamless.
+								Inutitive and user friendly applicaiton that makes managing your time easy.
 							</p>
 						</div>
 					</div>
 					<div class="col-6 col-md-4">
 						<div class="image">
-							<img src="assets/img/clinic-letter.png" alt="" title="">
+							<img src="assets/img/globe.jpg" alt="" title="">
 						</div>
 						<div class="desc">
 							<h4 class="mb-3">Anywhere, anytime</h4>
 							<p class="paragraph">
-								Daily commute. Errand across town. Early morning flight. Late night drinks. Wherever
-								you’re
-								headed, count on Uber for a ride—no reservations required.
+								Accessible anytime, anywhere, anyway for your convinience. 
 							</p>
 						</div>
 					</div>
 					<div class="col-6 col-md-4">
 						<div class="image">
-							<img src="https://img.icons8.com/dusk/128/000000/heart-with-pulse.png" alt="" title="">
+							<img src="./assets/img/schedule.png" alt="" title="">
 						</div>
 						<div class="desc">
-							<h4 class="mb-3">Track Your Health</h4>
+							<h4 class="mb-3">Track Your Schedule</h4>
 							<p class="paragraph">
-								Economy cars at everyday prices are always available. For special occasions, no occasion
-								at
-								all, or when you just a need a bit more room, call a black car or SUV.
+								The scheduling tool from Octank can help you bypass the confusion and allow you to organize 
+								the weeks ahead with ease and simplicity.
 							</p>
 						</div>
 					</div>
