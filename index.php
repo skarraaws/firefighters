@@ -401,11 +401,11 @@ FOR ANIMATION
 			<div class="container">
 				<div class="row slideanim">
 					<div class="col-5 img-banner">
-						<img src="./assets/img/app-banner.webp" alt="" width="380px">
+						<img src="./assets/img/app-banner.png" alt="" width="380px">
 					</div>
 					<div class="col-7">
-						<h1>Download the ClinicMe app</h1>
-						<p>Book appointments and health checkups;<br>Order medicines and consult doctors online</p>
+						<h1>Download the Octank app</h1>
+						<p>Schedule free and working hours;<br>Manage stressful workloads with ease</p>
 						<img src="./assets/img/google-play.png" alt="Play Button" width="180px">
 					</div>
 				</div>
@@ -444,7 +444,7 @@ FOR ANIMATION
 						<a class="mr-3" href=""><i class="fab fa-twitter"></i></a>
 						<a class="mr-3" href=""><i class="fab fa-google"></i></a>
 						<ul>
-							<li class=""><a href="#">clinicme@gmail.com</a></li>
+							<li class=""><a href="#">support@octank.com</a></li>
 							<li class=""><a href="#">(010)1234678</a></li>
 						</ul>
 					</div>
@@ -458,7 +458,7 @@ FOR ANIMATION
 						<p>&copy;
 							<script type="text/javascript">
 								document.write(new Date().getFullYear());
-							</script> Clinic ME Sdn Bhd
+							</script> Octank
 						</p>
 					</div>
 					<div class="col-6 footer-link">
