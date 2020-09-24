@@ -292,7 +292,7 @@ FOR ANIMATION
 						<div class="desc">
 							<h4 class="mb-3">Machine Learning</h4>
 							<p class="paragraph">
-								Inutitive and user friendly applicaiton augemnted with cutting-edge Machine Learning algorithms to create optimized schedules. 
+								Inutitive and user friendly application augmented with cutting-edge Machine Learning algorithms to create optimized schedules. 
 							</p>
 						</div>
 					</div>
