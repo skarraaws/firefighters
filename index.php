@@ -298,7 +298,7 @@ FOR ANIMATION
 					</div>
 					<div class="col-6 col-md-4">
 						<div class="image">
-							<img src="assets/img/globe.jpg" alt="" title="">
+							<img src="assets/img/globe.png" alt="" title="">
 						</div>
 						<div class="desc">
 							<h4 class="mb-3">Anywhere, anytime</h4>
