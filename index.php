@@ -279,7 +279,7 @@ FOR ANIMATION
 
 		<div class="jumbotron jumbotron-fluid">
 			<div class="container">
-				<h2 class="jumbotron-title">Your health is our piority</h2>
+				<h2 class="jumbotron-title">Subnet 1</h2>
 				<p>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
 			</div>
 		</div>
