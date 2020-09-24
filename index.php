@@ -279,8 +279,13 @@ FOR ANIMATION
 
 		<div class="jumbotron jumbotron-fluid">
 			<div class="container">
+<<<<<<< HEAD
 				<h2 class="jumbotron-title">Your well-being is our piority</h2>
 				<p>The #1 firefighter scheduling ap.</p>
+=======
+				<h2 class="jumbotron-title">Subnet 1</h2>
+				<p>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+>>>>>>> 7ee959b07f640abfbd59110bac3608a63cd7fb46
 			</div>
 		</div>
 
