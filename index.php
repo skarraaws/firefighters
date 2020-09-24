@@ -287,18 +287,18 @@ FOR ANIMATION
 				<div class="row slideanim">
 					<div class="col-6 col-md-4">
 						<div class="image">
-							<img src="https://img.icons8.com/dusk/128/000000/counselor.png" alt="" title="">
+							<img src="./assets/img/machine-learning.png" alt="" title="">
 						</div>
 						<div class="desc">
-							<h4 class="mb-3">Easiest way around</h4>
+							<h4 class="mb-3">Intelligent Scheduling with Machine Learning</h4>
 							<p class="paragraph">
-								Inutitive and user friendly applicaiton that makes managing your time easy.
+								Inutitive and user friendly applicaiton augemnted with cutting Machine Learnign alogirthms to create optimized schedules. 
 							</p>
 						</div>
 					</div>
 					<div class="col-6 col-md-4">
 						<div class="image">
-							<img src="assets/img/globe.png" alt="" title="">
+							<img src="./assets/img/globe.png" alt="" title="">
 						</div>
 						<div class="desc">
 							<h4 class="mb-3">Anywhere, anytime</h4>
