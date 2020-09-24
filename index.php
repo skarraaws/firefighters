@@ -242,7 +242,7 @@ FOR ANIMATION
 	<div class="wrapper">
 		<nav class="navbar navbar-expand-lg navbar-light">
 			<div class="container">
-				<a class="navbar-brand" href="#">Clinic <b>ME</b></a>
+				<a class="navbar-brand" href="#">Octank <b>Firefighter</b></a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
 					aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
@@ -354,18 +354,18 @@ FOR ANIMATION
 								<h5 class="card-title">Firehouse</h5>
 								<p class="card-text">Login for Firehouse support users
 								</p>
-								<a href="clinic/index.php" class="btn btn-primary">Clinic</a>
+								<a href="clinic/index.php" class="btn btn-primary">Firehouse</a>
 							</div>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="card">
 							<div class="card-body">
-								<img src="https://lh3.googleusercontent.com/proxy/Xf93ID_XUF1rGqPfSNhMj1s60D_m6-JCYrg03ZX27FZVJTfwB2RuhgE9BRrpZWGgj00o7L4NCAkhUFZnn16wUf6E5Ql3eK4tk15nSyBdMESAWXIuaGqASXtrXu7J3tXU_YLtPex6ZwAnbQ">
+								<img src="./assets/img/firehat.png">
 								<h5 class="card-title">Firefighter</h5>
 								<p class="card-text">Login for Firefighter squad
 								</p>
-								<a href="doctor/index.php" class="btn btn-primary">Doctor</a>
+								<a href="doctor/index.php" class="btn btn-primary">Firefighter</a>
 							</div>
 						</div>
 					</div>
