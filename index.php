@@ -6,7 +6,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<link rel="icon" href="assets/img/icon/favicon.ico" type="image/ico" sizes="16x16">
-	<title>Welcome to CLINIC ME</title>
+	<title>Welcome to Octank Firefighter</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
 		integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" href="assets/css/all.min.css">
@@ -279,8 +279,8 @@ FOR ANIMATION
 
 		<div class="jumbotron jumbotron-fluid">
 			<div class="container">
-				<h2 class="jumbotron-title">Your health is our piority</h2>
-				<p>This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+				<h2 class="jumbotron-title">Your well-being is our piority</h2>
+				<p>The #1 firefighter scheduling ap.</p>
 			</div>
 		</div>
 
@@ -331,16 +331,9 @@ FOR ANIMATION
 			</div>
 		</section>
 
-		<section class="text-center" id="howitwork">
-			<h2 class="section-title">How it Work</h2>
-			<div class="container">
-				<div class="row slideanim">
-				</div>
-			</div>
-		</section>
 
 		<section class="feature-section text-center" id="feature">
-			<h2 class="section-title">Feature</h2>
+			<h2 class="section-title">Features</h2>
 			<div class="container">
 				<div class="row slideanim">
 					<div class="col-sm-4">
@@ -348,8 +341,7 @@ FOR ANIMATION
 							<div class="card-body">
 								<img src="https://img.icons8.com/officexs/80/000000/triangular-bandage.png">
 								<h5 class="card-title">Administrator</h5>
-								<p class="card-text">With supporting text below as a natural lead-in to additional
-									content.
+								<p class="card-text">Administration locale_get_display_variant
 								</p>
 								<a href="admin/index.php" class="btn btn-primary">Admin</a>
 							</div>
@@ -358,10 +350,9 @@ FOR ANIMATION
 					<div class="col-sm-4">
 						<div class="card">
 							<div class="card-body">
-								<img src="https://img.icons8.com/officexs/80/000000/clinic.png">
-								<h5 class="card-title">Clinic</h5>
-								<p class="card-text">With supporting text below as a natural lead-in to additional
-									content.
+								<img src="https://www.iconfinder.com/data/icons/firefighters-filled-color/300/7363545Untitled-3-512.png">
+								<h5 class="card-title">Firehouse</h5>
+								<p class="card-text">Login for Firehouse support users
 								</p>
 								<a href="clinic/index.php" class="btn btn-primary">Clinic</a>
 							</div>
@@ -370,10 +361,9 @@ FOR ANIMATION
 					<div class="col-sm-4">
 						<div class="card">
 							<div class="card-body">
-								<img src="https://img.icons8.com/officexs/80/000000/medical-doctor.png">
-								<h5 class="card-title">Doctor</h5>
-								<p class="card-text">With supporting text below as a natural lead-in to additional
-									content.
+								<img src="https://lh3.googleusercontent.com/proxy/Xf93ID_XUF1rGqPfSNhMj1s60D_m6-JCYrg03ZX27FZVJTfwB2RuhgE9BRrpZWGgj00o7L4NCAkhUFZnn16wUf6E5Ql3eK4tk15nSyBdMESAWXIuaGqASXtrXu7J3tXU_YLtPex6ZwAnbQ">
+								<h5 class="card-title">Firefighter</h5>
+								<p class="card-text">Login for Firefighter squad
 								</p>
 								<a href="doctor/index.php" class="btn btn-primary">Doctor</a>
 							</div>
@@ -437,7 +427,7 @@ FOR ANIMATION
 			<div class="container">
 				<div class="row">
 					<div class="col-3">
-						<a class="navbar-brand" href="#">Clinic ME</a>
+						<a class="navbar-brand" href="#">Octank Firefighter</a>
 					</div>
 					<div class="col-3">
 						<h5>Product</h4>
