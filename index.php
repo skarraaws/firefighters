@@ -267,9 +267,9 @@ FOR ANIMATION
 								Log In/Sign Up
 							</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-								<a class="dropdown-item" href="#patient">Patient</a>
-								<a class="dropdown-item" href="clinic/login.php">Clinic</a>
-								<a class="dropdown-item" href="doctor/login.php">Doctor</a>
+								<a class="dropdown-item" href="#patient">Firefighter</a>
+								<a class="dropdown-item" href="clinic/login.php">Firehouse</a>
+								<a class="dropdown-item" href="doctor/login.php">Administrator</a>
 							</div>
 						</li>
 					</ul>
@@ -341,7 +341,7 @@ FOR ANIMATION
 							<div class="card-body">
 								<img src="https://img.icons8.com/officexs/80/000000/triangular-bandage.png">
 								<h5 class="card-title">Administrator</h5>
-								<p class="card-text">Administration locale_get_display_variant
+								<p class="card-text">Login for Adminstrative Access
 								</p>
 								<a href="admin/index.php" class="btn btn-primary">Admin</a>
 							</div>
@@ -352,7 +352,7 @@ FOR ANIMATION
 							<div class="card-body">
 								<img src="./assets/img/firehouse.png">
 								<h5 class="card-title">Firehouse</h5>
-								<p class="card-text">Login for Firehouse support users
+								<p class="card-text">Support scheduling of firehouse assets
 								</p>
 								<a href="clinic/index.php" class="btn btn-primary">Firehouse</a>
 							</div>
@@ -363,7 +363,7 @@ FOR ANIMATION
 							<div class="card-body">
 								<img src="./assets/img/firehat.png">
 								<h5 class="card-title">Firefighter</h5>
-								<p class="card-text">Login for Firefighter squad
+								<p class="card-text">View and manage your schedule
 								</p>
 								<a href="doctor/index.php" class="btn btn-primary">Firefighter</a>
 							</div>
